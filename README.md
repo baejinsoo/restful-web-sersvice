@@ -1,4 +1,4 @@
-# 스프링 부트를 통한restful-web-service
+# 스프링 부트를 통한 RESTful-web-service 구현
 
 | Description                    | REST API                    | HTTP Method |
 | ------------------------------ | --------------------------- | ----------- |
