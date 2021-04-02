@@ -1,4 +1,4 @@
-# restful-web-sersvice
+# 스프링 부트를 통한restful-web-service
 
 | Description                    | REST API                    | HTTP Method |
 | ------------------------------ | --------------------------- | ----------- |
